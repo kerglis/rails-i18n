@@ -14,19 +14,19 @@ lv:
     - Pk.
     - S.
     abbr_month_names:
-    - 
-    - Janv
-    - Febr
-    - Marts
-    - Apr
-    - Maijs
-    - Jūn
-    - Jūl
-    - Aug
-    - Sept
-    - Okt
-    - Nov
-    - Dec
+    -
+    - jan.
+    - feb.
+    - mar.
+    - apr.
+    - mai.
+    - jūn.
+    - jūl.
+    - aug.
+    - sept.
+    - okt.
+    - nov.
+    - dec.
     day_names:
     - svētdiena
     - pirmdiena
@@ -42,7 +42,7 @@ lv:
     month_names:
     -
     - janvārī
-    - ferbruārī
+    - februārī
     - martā
     - aprīlī
     - maijā

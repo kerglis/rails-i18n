@@ -131,8 +131,8 @@ lv:
       not_an_integer: ir jābūt veselam skaitlim
       odd: ir jābūt nepāra skaitlim
       other_than: jabūt citam nekā %{count}
-      present: jābūt tukšamm
-      required: jābūt aizpildītam
+      present: ir jābūt tukšam
+      required: ir jābūt aizpildītam
       taken: ir jau aizņemts
       too_long:
         zero: ir par garu (maksimums ir %{count} simboli)

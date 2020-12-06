@@ -130,6 +130,9 @@ lv:
       not_a_number: nav skaitlis
       not_an_integer: ir jābūt veselam skaitlim
       odd: ir jābūt nepāra skaitlim
+      other_than: jabūt citam nekā %{count}
+      present: jābūt tukšamm
+      required: jābūt aizpildītam
       taken: ir jau aizņemts
       too_long:
         zero: ir par garu (maksimums ir %{count} simboli)
